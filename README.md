@@ -23,19 +23,19 @@ The project compile with *Makefile*:
 For compile the project use the commande:
 
 ```console
-foo@bar:~/CPE_BSQ_2019$ make re
+foo@bar:~/202unsold$ make re
 ```
 
 For clean the project use:
 
 ```console
-foo@bar:~/CPE_BSQ_2019$ make fclean
+foo@bar:~/202unsold$ make fclean
 ```
 
 Get instruction with:
 
 
 ```console
-foo@bar:~/CPE_BSQ_2019$ ./202unsold -h
+foo@bar:~/202unsold$ ./202unsold -h
 ```
 
