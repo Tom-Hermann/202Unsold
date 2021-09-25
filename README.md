@@ -1,6 +1,6 @@
 # 202unsold
 
-$\frac{(a-x)(b - y)}{(5a −150)(5b −150)}$
+![image](asset/formula.png)
 
 With:
 
